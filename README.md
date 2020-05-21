@@ -5,8 +5,8 @@
 Say goodbye to `notepad.exe` now(?).
 
 ----------
-Code written on JetBrains PyCharm Professional.
-![](https://www.jetbrains.com/favicon-16x16.png)
+Code written on JetBrains PyCharm Professional.![](https://www.jetbrains.com/favicon-16x16.png)\
+![](https://resources.jetbrains.com/storage/products/jetbrains/img/meta/preview.png)
 
 ## Features
 
