@@ -4,6 +4,10 @@
 
 Say goodbye to `notepad.exe` now(?).
 
+----------
+Code written on JetBrains PyCharm Professional.
+![](https://www.jetbrains.com/apple-touch-icon.png)
+
 ## Features
 
 Consoledit is more suitable for editors and students than `notepad.exe`, and more convenient than Microsoft Office when you want to edit a text file. Here are some of the special features of Consoledit:
