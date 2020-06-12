@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Test Page</title>
+</head>
+<body>
+    <style>
+        p.red_style {color: red}
+    </style>
+    <p contenteditable="true" class="red_style">Hello HTML!</p>
+    <a href="https://ithome.com" accesskey="x">I am a link. Click me or press <kbd>x</kbd>!</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Test Page</title>
+</head>
+<body>
+    <style>
+        p.red_style {color: red}
+    </style>
+    <p contenteditable="true" class="red_style">Hello HTML!</p>
+    <a href="https://ithome.com" accesskey="x">I am a link. Click me or press <kbd>x</kbd>!</a>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Test Page</title>
+</head>
+<body>
+    <style>
+        p.red_style {color: red}
+    </style>
+    <p contenteditable="true" class="red_style">Hello HTML!</p>
+    <a href="https://ithome.com" accesskey="x">I am a link. Click me or press <kbd>x</kbd>!</a>
+</body>
+</html>
